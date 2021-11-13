@@ -3,6 +3,7 @@
 Input of the CountryGwp Controller:
 
 country - A string containing the name of the country.
+
 lob - A string containing the names of the lineOfBusiness seperated by ",".
 
 for testing I used curl with commmand for windows as:
